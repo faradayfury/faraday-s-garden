@@ -29,5 +29,5 @@ vendor/
 # Node modules (if using any Node.js tools)
 node_modules/
 
-# Bundle lock file (keep this for consistent builds)
-# Gemfile.lock
+# Bundle lock file (can be regenerated)
+Gemfile.lock
