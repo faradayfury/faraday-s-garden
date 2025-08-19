@@ -1,5 +1,6 @@
 ---
 title: Consistency is key
+date: 2024-12-19
 ---
 
 Show up. Do the work. Be consistent.

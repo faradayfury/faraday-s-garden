@@ -1,0 +1,15 @@
+{
+  "buildCommand": "bundle exec jekyll build",
+  "outputDirectory": "_site",
+  "framework": "jekyll",
+  "installCommand": "bundle install",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "_site"
+      }
+    }
+  ]
+}

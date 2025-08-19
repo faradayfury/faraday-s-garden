@@ -11,5 +11,10 @@ _site/
 # Notes graph metadata
 _includes/notes_graph.json
 
-# Obsidian config
-.obsidian/
+# Obsidian workspace-specific files (keep config files)
+**/.obsidian/workspace.json
+**/.obsidian/hotkeys.json
+**/.obsidian/workspaces.json
+**/.obsidian/graph.json
+**/.obsidian/appearance.json
+**/.obsidian/community-plugins.json

@@ -1,0 +1,14 @@
+{
+  "attachmentFolderPath": "../assets",
+  "newFileLocation": "root",
+  "useMarkdownLinks": true,
+  "showLineNumber": true,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true,
+  "promptDelete": false,
+  "spellcheck": true
+}

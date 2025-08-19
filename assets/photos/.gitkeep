@@ -1,0 +1,27 @@
+# This file ensures the photos directory is tracked by Git
+
+# You can delete this file once you add your first photo
+
+# To test the photo system immediately:
+
+# 1. Add any .jpg or .png files to this folder
+
+# 2. Update /\_data/photos.yml with matching filenames
+
+# 3. Rebuild your Jekyll site
+
+# The current sample entries in photos.yml reference:
+
+# - sample-photo-1.jpg
+
+# - sample-photo-2.jpg
+
+# - sample-photo-3.jpg
+
+# - sample-photo-4.jpg
+
+# - sample-photo-5.jpg
+
+# - sample-photo-6.jpg
+
+# Replace these with your actual photo filenames!
