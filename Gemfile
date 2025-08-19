@@ -4,6 +4,7 @@ ruby '>= 3.0'
 
 gem 'jekyll', '~> 4.3'
 gem 'bundler', '>= 2.0'
+gem 'nokogiri'
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
