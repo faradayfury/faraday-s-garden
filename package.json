@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "description": "Faraday's Digital Garden - A Jekyll-based personal website",
   "scripts": {
-    "build": "bundle exec jekyll build",
     "serve": "bundle exec jekyll serve",
     "clean": "bundle exec jekyll clean"
-  },
-  "engines": {
-    "node": ">=18.0.0"
   }
 }
