@@ -18,3 +18,16 @@ _includes/notes_graph.json
 **/.obsidian/graph.json
 **/.obsidian/appearance.json
 **/.obsidian/community-plugins.json
+
+# Vendor dependencies (should be installed via bundle install)
+vendor/
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Node modules (if using any Node.js tools)
+node_modules/
+
+# Bundle lock file (keep this for consistent builds)
+# Gemfile.lock
