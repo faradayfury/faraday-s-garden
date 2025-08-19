@@ -4,6 +4,9 @@ exclude: ["_includes/notes_graph.json"]
 # You may need to change the base URL depending on your deploy configuration.
 baseurl: ""
 
+# Encoding configuration for UTF-8 support
+encoding: utf-8
+
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
 use_html_extension: false
